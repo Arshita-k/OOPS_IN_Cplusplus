@@ -24,7 +24,7 @@ OVERVIEW
     -> Derived Class: A class that inherits some or all of its members from another class, called 
                 base class
 
-7. Polymorphism: (Ability to take different forms) A property by which we can send the same message to objects of several different classes, and each object can respond in a different way 
+7. Polymorphism: (Ability to take different forms) A property by which we can send the same message to objects of several different classes, and each object can respond in a different way 
                  depending on its class. We can send such a message without knowing to which of the classes the objects belong. In C++, polymorphism is 
                  implemented by means of virtual functions and dynamic binding
             -> Compile Time
